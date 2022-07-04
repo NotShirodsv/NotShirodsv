@@ -11,7 +11,7 @@
 * A quoi je touche en général ?
 
   * Aux enfants
-  * Glua
+  * GLua
   * HTML
   * CSS
   * Javascript
