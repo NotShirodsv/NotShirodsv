@@ -1,16 +1,22 @@
-### Hi there 👋
+### / Keskilia
+### / Moi c'est Shiro (t'sais le mec connu genre)
+### / J'habite chez moi !
 
-<!--
-**NotShirodsv/NotShirodsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------
+*E:\github\un_random\lua\autorun\server\sv_random.lua*
 
-Here are some ideas to get you started:
+----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* A quoi je touche en général ?
+
+  * Aux enfants
+  * Glua
+  * HTML
+  * CSS
+  * Javascript
+--------------------------------------------------------------------------------------------------------------------------
+
+ ![Image Profil](https://i.pinimg.com/474x/67/e2/8c/67e28cd94f8789413132a294e4e32325.jpg)
+ 
+ --------------------------------------------------------------------------------------------------------------------------
